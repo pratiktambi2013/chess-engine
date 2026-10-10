@@ -1,0 +1,5 @@
+# Build products
+/mitra
+/build/
+*.o
+*.obj
